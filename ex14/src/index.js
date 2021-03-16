@@ -5,6 +5,6 @@ function convertStrToInt(str) {
 console.log(convertStrToInt(44));
 console.log(convertStrToInt(44));
 console.log(convertStrToInt(27));
-console.log(convertStrToInt("Jeff Bezos"));
+console.log(convertStrToInt("JeffBezos"));
 // Only change code above this line
 module.exports = convertStrToInt;
